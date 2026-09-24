@@ -1,1 +1,0 @@
-import{H as e}from"./index-index-D3xuB2NN.js";var t=((t,n,r)=>{e(t,`[ant-design-vue: ${n}] ${r}`)});export{t};

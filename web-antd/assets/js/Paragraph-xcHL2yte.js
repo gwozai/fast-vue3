@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./Title-bmeKRmch.js";import{Mr as n,_n as r,ei as i}from"./index-index-uZbhO4v4.js";var a=()=>r(t(),[`component`]),o=(t,r)=>{let{slots:a,attrs:o}=r;return i(e,n(n(n({},t),{component:`div`}),o),a)};o.displayName=`ATypographyParagraph`,o.inheritAttrs=!1,o.props=a();export{o as t};
